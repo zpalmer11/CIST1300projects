@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+<body>
+
+<h1>This is my first page</h1>
+<p1>I like HTML</p1>
+<p2><i>does not look that complicated</i></p2>
+
+<p>why is this <p> 
+<p style="color:red;">red.</p>
+
+<p style="text-align:right;">Why is this on the right?</p>
+
+<p>why is this a link to google?</p>
+<p><a href="https://www.google.com/">Google</a></p> 
+
+<table style="width:90%">
+  <tr>
+    <th>State</th>
+    <th>Capitol</th> 
+    <th>Number of people</th>
+  </tr>
+  <tr>
+    <td>New York</td>
+    <td>Albany</td>
+    <td>20 million
+</td>
+  </tr>
+  <tr>
+    <td>California</td>
+    <td>Sacramento</td>
+    <td>18 Million</td>
+  </tr>
+  <tr>
+    <td>Texas</td>
+    <td>San Antonio</td>
+    <td>23 Million</td>
+  </tr>
+</table>
+
+<p>This is a Boeing 747</p> 
+
+<img src="boeing-747-8.jpg" width="1332" height="850"
+
+</body>
+</html>
